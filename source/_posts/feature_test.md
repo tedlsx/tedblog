@@ -1,6 +1,9 @@
 ---
 title: Find important feature
 ---
+Introduction of feature engineering. Include some method such like p-value and F-test in Pyhton.
+<!--more-->
+
 ## Select feature
 ### Reason to do feature selection
 1. Because a large number of features may cost long training time

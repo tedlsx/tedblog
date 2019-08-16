@@ -1,6 +1,9 @@
 ---
 title: Read data
 ---
+Include a method to read(scratch) data from website and transfer them into dataframe. 
+<!--more-->
+
 ### csv file
 Using Pandas package  [read_csv](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html).
 

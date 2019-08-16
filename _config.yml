@@ -3,9 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 555
-subtitle: dznb! jacksb!
-description:
+title: 404
+subtitle: 大海啊，都是水 
+          jacksb dznb!
+description: 
 keywords:
 author: Shixuan Liu (Ted)
 language:
@@ -109,13 +110,13 @@ gitalk:
 #   cdn: //cdn.jsdelivr.net/npm/mathjax@2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 
 # markdown_it_plus
-markdown_it_plus:
-  highlight: true
-  html: true
-  xhtmlOut: true
-  breaks: true
-  langPrefix:
-  linkify: true
-  typographer:
-  quotes: “”‘’
-  pre_class: highlight
+# markdown_it_plus:
+#   highlight: true
+#   html: true
+#   xhtmlOut: true
+#   breaks: true
+#   langPrefix:
+#   linkify: true
+#   typographer:
+#   quotes: “”‘’
+#   pre_class: highlight

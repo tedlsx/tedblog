@@ -1,6 +1,9 @@
 ---
-title: Machine Learning 
+title: Classification Application 
 ---
+Introduction of several Classification packages in machine learning(Python3).
+<!--more--> 
+
 Before we use many ML algorithm, we sometimes need to preprocess the data
 
 Import all package

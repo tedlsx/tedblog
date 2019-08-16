@@ -4,7 +4,8 @@ date: 2019-07-25 14:51:27
 tags:
 ---
 ---
-
+Introduction of ARIMA and SARIMA model 
+<!--more-->
 
 ## ARIMA-autoregreesive integrated moving average
 

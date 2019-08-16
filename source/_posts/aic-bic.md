@@ -3,6 +3,8 @@ title: AIC and BIC
 date: 2019-07-29 11:51:17
 tags:
 ---
+Introduction 2 model estimation AIC and BIC.
+<!--more-->
 
 ## AIC 
 
